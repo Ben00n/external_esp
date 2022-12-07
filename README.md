@@ -3,7 +3,7 @@
  ![alt text] 
 
 
- ![Screenshot][(screenshot.png)](https://cdn.discordapp.com/attachments/314339513327681536/1049997026504491048/image.png)
+ ![Screenshot][(https://cdn.discordapp.com/attachments/314339513327681536/1049997026504491048/image.png)]
  # How to use
  
  dump offsets using hazedumper and paste relevant offsets.
