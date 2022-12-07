@@ -1,5 +1,5 @@
 # External csgo esp
- super basic proof of concept esp poorly written and probably detected. uses glow object on entities mapped by team id.
+ super basic proof of concept esp poorly written and probably vac detected. uses glow object on entities mapped by team id.
  
  # How to use
  
