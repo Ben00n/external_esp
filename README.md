@@ -6,4 +6,5 @@
  # How to use
  
  dump offsets using hazedumper and paste relevant offsets. https://github.com/frk1/hazedumper
+ 
  build as x86 or it work work.
